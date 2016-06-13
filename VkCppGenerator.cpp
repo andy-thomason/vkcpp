@@ -2988,6 +2988,7 @@ int main( int argc, char **argv )
       << "#define VK_CPP_H_" << std::endl
       << std::endl
       << "#include <array>" << std::endl
+      << "#include <algorithm>" << std::endl
       << "#include <cassert>" << std::endl
       << "#include <cstdint>" << std::endl
       << "#include <cstring>" << std::endl
